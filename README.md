@@ -1,8 +1,5 @@
 # EX No.4.1. CUT SECTION OF SOLIDS
 
-## DATE:6-5-2024
-## NAME:MOHAMED AAKIF ASRAR S
-## REG NO:212223240088
 
 ## AIM
 To create the solid model from given drawing and section the solid model
